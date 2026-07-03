@@ -6,8 +6,6 @@ date: 5th-9th of October 2026
 The worldwide OpenTripPlanner community is meeting in Bern, Switzerland, from 5–9 October 2026, as part of the [Open Transport Community Conference (OTCC)](https://open-transport.org/). 
 Expect talks and discussions on all items for OTP, plenty of chances to socialise, and — new this year — a joint (un)program with the Open Transport Community.
 
-Tickets are free for OTP-affiliated attendees: OTP is sponsoring a block of free places. Register via [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/).
-
 ## Schedule
 
 The main conference on Thursday and Friday is open to anyone interested in OTP, from newcomers to experienced users — this is the best entry point if your organization is exploring OTP for the first time. 
@@ -46,7 +44,7 @@ Switzerland
 
 ## Registration
 
-Registration for Tuesday-Friday is done through [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/). If you are interested in joining the Monday, send us a message. 
+Registration for Tuesday-Friday is done through [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/). If you are interested in joining the Monday, send us a message. Tickets can be free for OTP-affiliated attendees; OTP is sponsoring a block of free places. Buy a ticket to support Open Transport Community. 
 
 ## Contact
 
