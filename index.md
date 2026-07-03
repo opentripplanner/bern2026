@@ -19,7 +19,7 @@ from [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/
 Location:
 Not chosen yet
 
-OTP only program at a different venue aimed for developers who have OTP expertise.
+OTP-only program at a different venue aimed at developers who have OTP expertise.
 
 ### Tuesday-Wednesday: OTTC Hackdays
 
