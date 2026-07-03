@@ -12,7 +12,7 @@ Tickets are free for OTP-affiliated attendees: OTP is sponsoring a block of free
 
 The main conference on Thursday and Friday is open to anyone interested in OTP, from newcomers to experienced users — this is the best entry point if your organization is exploring OTP for the first time. 
 
-The Monday–Wednesday sessions require prior OTP knowledge and involvement to get the most out of them and include a dedicated OTP Product Day on Wednesday for companies actively contributing to OTP development.
+The Monday–Wednesday sessions require prior OTP knowledge and involvement to get the most out of them. They include a dedicated OTP Product Day on Wednesday for companies actively contributing to OTP development.
 
 ### Monday
 
