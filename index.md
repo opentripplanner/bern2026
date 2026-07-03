@@ -1,19 +1,13 @@
 ---
-title: OTP Meetup 2026 Bern
+title: OTP Summit 2026 Bern
 date: 5th-9th of October 2026
 ---
 
-The worldwide community is meeting in October 2026 in Bern, Switzerland as
-part of the [Open Transport Community Conference](https://open-transport.org/)
-to discuss all kinds of topics around OTP and, of course, to socialise.
+The worldwide OpenTripPlanner community is meeting in Bern, Switzerland, from 5–9 October 2026, as part of the [Open Transport Community Conference (OTCC)](https://open-transport.org/). Expect talks and discussions on all items for OTP, plenty of chances to socialise, and — new this year — a joint (un)program with the Open Transport Community.
 
-The event has free community tickets and non-free company tickets. Check details
-from [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/).
+Tickets are free for OTP-affiliated attendees: OTP is sponsoring a block of free places. Register via [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/).
 
-The main conference on Thursday and Friday is aimed at OTP users and interested 
-parties at all levels of knowledge and expertise.
-The events on Monday to Wednesday require prior knowledge and involvement in
-order to get the most value out of them.
+The main conference on Thursday and Friday is open to anyone interested in OTP, from newcomers to experienced users — this is the best entry point if your organization is exploring OTP for the first time. The Monday–Wednesday sessions require prior OTP knowledge and involvement to get the most out of them and include a dedicated OTP Product Day on Wednesday for companies actively contributing to OTP development.
 
 ## Schedule
 
@@ -22,24 +16,20 @@ order to get the most value out of them.
 Location:
 Not chosen yet
 
-OTP-only program at a different venue aimed at developers who have OTP expertise.
+OTP-only program at a different venue, aimed at developers with OTP expertise.
 
-### Tuesday-Wednesday: OTTC Hackdays
+### Tuesday-Wednesday: OTCC Hackdays
 
-These sessions are aimed at developers that are already very familiar
-with OTP development.
+These sessions are aimed at developers who are already very familiar with OTP development and to interact and collaborate with the OTCC community. 
 
 Location:
-
 **Trüsselstrasse 2**  
 3014 Bern  
 Switzerland
 
-### Thursday-Friday: OTTC (Un)conference
+### Thursday-Friday: OTCC (Un)conference
 
-At this conference, many members of the OTP community will be present,
-but it is not an OTP-only event. It's ideal to get a picture of the community
-when you are not already familiar with it.
+This year, we co-host with OTCC to strengthen collaboration in open-source mobility.  At this conference, many members of the OTP community will be present. Here you will be able to learn about the product, usage, future plans, and see if OTP may be the solution fitting your needs, alongside attracting new designers and developers to our community. 
 
 There will be ample opportunity to socialise.
 
@@ -52,7 +42,7 @@ Switzerland
 
 ## Registration
 
-Registration is for Tuesday-Friday is done through [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/). If you are interested about joining the Monday
+Registration for Tuesday-Friday is done through [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/). If you are interested in joining the Monday, send us a message. 
 
 ## Contact
 
