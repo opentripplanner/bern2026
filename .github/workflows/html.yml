@@ -2,10 +2,13 @@ name: Build
 
 on:
   push:
+    branches:
+      - main
     #paths:
     #  - '*.md'
     #  - 'template.html'
     #  - '**/*.yml'
+
 
 jobs:
   html:
