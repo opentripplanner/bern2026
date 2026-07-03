@@ -12,6 +12,7 @@ on:
 
 jobs:
   html:
+    if: github.repository_owner == 'opentripplanner'
     runs-on: ubuntu-latest
     timeout-minutes: 2
     concurrency:
