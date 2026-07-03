@@ -24,16 +24,16 @@ OTP only program at a different venue aimed for developers who have OTP expertis
 ### Tuesday-Wednesday: OTTC Hackdays
 
 Location:
-Trüsselstrasse 2
-3014 Bern
+Trüsselstrasse 2  
+3014 Bern  
 Switzerland
 
 ### Thursday-Friday: OTTC (Un)conference
 
 Location:
-SBB Headquarters
-Hilfikerstrasse 1
-3014 Bern
+SBB Headquarters  
+Hilfikerstrasse 1  
+3014 Bern  
 Switzerland
 
 ## Registration
