@@ -7,10 +7,13 @@ The worldwide community is meeting in October 2026 in Bern, Switzerland as
 part of the [Open Transport Community Conference](https://open-transport.org/)
 to discuss all kinds of topics around OTP and, of course, to socialise.
 
-It is aimed at OTP users and interested parties at all levels of knowledge and expertise.
-
 The event has free community tickets and non-free company tickets. Check details
 from [the OTCC registration form](https://pretix.eu/fossgis/open-transport-2026/).
+
+The main conference on Thursday and Friday is aimed at OTP users and interested 
+parties at all levels of knowledge and expertise.
+The events on Monday to Wednesday require prior knowledge and involvement in
+order to get the most value out of them.
 
 ## Schedule
 
