@@ -23,6 +23,9 @@ OTP only program at a different venue aimed for developers who have OTP expertis
 
 ### Tuesday-Wednesday: OTTC Hackdays
 
+These sessions are aimed at developers that are already very familiar
+with OTP development.
+
 Location:
 
 **Trüsselstrasse 2**  
@@ -30,6 +33,12 @@ Location:
 Switzerland
 
 ### Thursday-Friday: OTTC (Un)conference
+
+At this conference, many members of the OTP community will be present,
+but it is not an OTP-only event. It's ideal to get a picture of the community
+when you are not already familiar with it.
+
+There will be ample opportunity to socialise.
 
 Location:
 
