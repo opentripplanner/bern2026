@@ -51,7 +51,7 @@ Registration for Tuesday-Friday is done through [the OTCC registration form](htt
 ## Contact
 
 Should you have any questions, please email [brede.dammen@entur.org](mailto:brede.dammen@entur.org) or 
-[mail@leonard.io](mailto:mail@leonard.io) or join the [Gitter chat](https://gitter.im/opentripplanner/OpenTripPlanner).
+[Markus.Nilsson@sweco.se](mailto:Markus.Nilsson@sweco.se) or join the [Gitter chat](https://gitter.im/opentripplanner/OpenTripPlanner).
 
 ## Partners
 
