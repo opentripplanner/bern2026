@@ -13,11 +13,16 @@ The main conference on Thursday and Friday is open to anyone interested in OTP, 
 The Monday–Wednesday sessions require prior OTP knowledge and involvement to get the most out of them. They include a dedicated OTP Product Day on Wednesday for companies actively contributing to OTP development.
 
 ### Monday
+OTP-only program at a different venue, aimed at developers with OTP expertise.
+
+There are only 12 spots available for developers. Please signup by email to Thomas Gran, Entur. OTP Core Developers will be given priority. Lunch is served at the restaurant, but each participant will need to pay for their own meal.
 
 Location:
-Not chosen yet
 
-OTP-only program at a different venue, aimed at developers with OTP expertise.
+Kursaal Bern AG  
+Swissôtel Kursaal  
+Bern  
+
 
 ### Tuesday-Wednesday: OTCC Hackdays
 
