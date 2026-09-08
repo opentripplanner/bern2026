@@ -34,6 +34,16 @@ Location:
 3014 Bern  
 Switzerland
 
+### Wednesday: Product day
+
+These sessions are aimed at people with product responsibilities, and has an agenda that is different from the other sessions during the OTCC Hackdays, even if it's at the same location.
+
+Location:
+
+**Trüsselstrasse 2**  
+3014 Bern  
+Switzerland
+
 ### Thursday-Friday: OTCC (Un)conference
 
 This year, we co-host with OTCC to strengthen collaboration in open-source mobility.  At this conference, many members of the OTP community will be present. Here you will be able to learn about the product, usage, future plans, and see if OTP may be the solution fitting your needs, alongside attracting new designers and developers to our community. 
