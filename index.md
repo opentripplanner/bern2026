@@ -17,12 +17,17 @@ OTP-only program at a different venue, aimed at developers with OTP expertise.
 
 There are only 12 spots available for developers. Please signup by email to Thomas Gran, Entur. OTP Core Developers will be given priority. Lunch is served at the restaurant, but each participant will need to pay for their own meal.
 
+Time: 
+We will meet at 09:00 and end the session at 17:00
+
 Location:
 
+OPUS room 
 Kursaal Bern AG  
 Swissôtel Kursaal  
 Bern  
 
+https://maps.app.goo.gl/cEFWYfxyMqyzQUpp6
 
 ### Tuesday-Wednesday: OTCC Hackdays
 
