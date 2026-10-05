@@ -12,6 +12,8 @@ The main conference on Thursday and Friday is open to anyone interested in OTP, 
 
 The Monday–Wednesday sessions require prior OTP knowledge and involvement to get the most out of them. They include a dedicated OTP Product Day on Wednesday for companies actively contributing to OTP development.
 
+[Agenda ideas for Monday to Wednesday](https://docs.google.com/document/d/12kM3ZJRcRgdsvfo23e2JbHRxciGpGMJuyu_LhnJ1gi4)
+
 ### Monday
 OTP-only program at a different venue, aimed at developers with OTP expertise.
 
